@@ -20,7 +20,7 @@ permalink: /about/
 - 趣味
   - 哲学
   - 数学
-Screenshot from 2021-05-29 18-07-59
+
 - Links
   - Twitter: [@viterum_24](https://twitter.com/viterum_24)
   - Github: [anosatsuk124](https://github.com/anosatsuk124)
