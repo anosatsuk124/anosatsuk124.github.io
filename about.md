@@ -13,6 +13,8 @@ permalink: /about/
 
 - 所属
   - [Menhera.org](https://www.menhera.org)
+  - [VWAlubis](https://pianists.github.io/PsMemoBlog/conworld/)
+  - [Cyphanese development](https://github.com/anosatsuk124/Cyphanese)
 
 - 年齢
   - 18(B1)
