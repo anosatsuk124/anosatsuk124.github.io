@@ -46,6 +46,7 @@ Attribute | Value
 - [x] **2019**: 日本言語学オリンピック入賞
 
 ## Twitterアカウント
+
  ID | Screen name | Proper name 
 ----|-------------|-------------
 [1163505248649928704](https://twitter.com/viterum_24) | viterum_24 | 表垢
@@ -55,10 +56,17 @@ Attribute | Value
 *** | *** | 薬理垢
 
 ## 関連DNSドメイン
+
 Domain name | Status(es) | Description
 ------------|------------|-------------
 levome-dol.com | At home | Using for private
 menhera.org | Route 53 / AWS | Menhera.org organizational main domain
+
+## 連絡先
+
+Email | E2EE-pubkey
+------|-------------
+<anosatsuk124@gmail.com> | https://raw.githubusercontent.com/anosatsuk124/Openpgp-pubkey/main/pubkey.asc
 
 # EN
 
@@ -95,6 +103,7 @@ Caveats | ADHD(DX), GAD(DX), Possible psychosis
 - [x] **2019**: In JOL(Japanese Olympiad in Lunguistics), won a prize
 
 ## Twitter accounts
+
  ID | Screen name | Proper name 
 ----|-------------|-------------
 [1163505248649928704](https://twitter.com/viterum_24) | viterum_24 | 表垢
@@ -104,12 +113,14 @@ Caveats | ADHD(DX), GAD(DX), Possible psychosis
 *** | *** | 薬理垢
 
 ## Related DNS domains
+
 Domain name | Status(es) | Description
 ------------|------------|-------------
 levome-dol.com | At home | Using for private
 menhera.org | Route 53 / AWS | Menhera.org organizational main domain
 
 ## Contacts
+
 Email | E2EE-pubkey
 ------|-------------
 <anosatsuk124@gmail.com> | https://raw.githubusercontent.com/anosatsuk124/Openpgp-pubkey/main/pubkey.asc
