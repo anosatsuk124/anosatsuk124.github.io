@@ -4,26 +4,112 @@ title: About
 permalink: /about/
 ---
 
-# 自己紹介
+![Language: ja](https://img.shields.io/badge/lang-ja-pink)
+![Language: en](https://img.shields.io/badge/lang-en-purple)
+![Language: zh](https://img.shields.io/badge/lang-zh-purple)
+![Language: jbo](https://img.shields.io/badge/lang-jbo-purple)
+![Language: tpi](https://img.shields.io/badge/lang-tpi-purple)
+![Discord: ゐてるま#5750](https://img.shields.io/static/v1?label=Discord&message=ゐてるま%235750&color=ca97bf)
 
-- 名前
-  - ゐてるま
-  - あの
-  - viterum
+# 日本語
 
-- 所属
-  - [Menhera.org](https://www.menhera.org)
-  - [VWAlubis](https://pianists.github.io/PsMemoBlog/conworld/)
-  - [Cyphanese development](https://github.com/anosatsuk124/Cyphanese)
+### 宗教観と哲学的思想
 
-- 年齢
-  - 18(B1)
+宗教と哲学的思想と科学的仮説は両立可能であるとする立場です。宗教観は自由主義プロテスタントで、アルミニウス主義、万人救済主義、内村鑑三の無教会主義とマルキオン主義に影響を受けています。哲学的思想は独我論的立場を取っています。 
 
-- 趣味
-  - 哲学
-  - 数学
+### 興味のある学問
 
-- Links
-  - Twitter: [@viterum_24](https://twitter.com/viterum_24)
-  - Github: [anosatsuk124](https://github.com/anosatsuk124)
-  - Github(組織): [Menhera.org](https://github.com/menhera-org)
+- 分析哲学 (特に、科学的存在論と心の哲学)
+- 純粋数学 (特に、数学基礎論)
+- 機械学習 (特に、自然言語処理)
+- 言語学 (特に、形式意味論)
+- 薬学 (特に、中枢神経系に関わる神経薬理学)
+
+
+Attribute | Value
+----------|-------
+汎用的名前 | ゐてるま (Japanese Pronounciation: いてるま, English: Viterum, /vɪtɛɹʌm/), etc.
+その他の名前 | あの, ぬてむま, ano
+戸籍名 | 秋葉 沙都季(Satsuki Akiba)
+生年月日 | 2003-01-24
+母語 | 日本語北海道札幌方言
+その他の言語 | 英語、中国語
+既習言語 | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, 漢文, etc.
+好きなプログラミング言語 | Haskell, OCaml, R, Purescript, Common Lisp, Hylang
+注意 | 注意欠陥多動性障害(診断済み)、 全般性不安障害(診断済み)、 精神病(Psychosis)疑い
+
+## タイムライン
+
+- [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
+- [x] Cyphaneseチームリーダ
+- [x] 仮想世界Alubisメンバ (思想史/科学史分野)
+- [x] **2019**: 日本言語学オリンピック入賞
+
+## Twitterアカウント
+ ID | Screen name | Proper name 
+----|-------------|-------------
+[1163505248649928704](https://twitter.com/viterum_24) | viterum_24 | 表垢
+[1226033549901328385](https://twitter.com/unstableviterum) | unstableviterum | 界隈鍵垢
+[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先| 業務用アカウント——真空の，机の上．
+*** | *** | 真の鍵
+*** | *** | 薬理垢
+
+## 関連DNSドメイン
+Domain name | Status(es) | Description
+------------|------------|-------------
+levome-dol.com | At home | Using for private
+menhera.org | Route 53 / AWS | Menhera.org organizational main domain
+
+# EN
+
+### Religious and Philosophical views
+
+I'm in a position that Religious views ,Philosophical thought, and Scientific hypotheses and theories are compatible. My religious view is Liberal Protestant influenced by Marcionism, Non-church Movement of Kanzo Uchimura, Universal Reconciliation and Arminianism. My philosophical thought is Monologism. 
+
+### Interested Studies
+
+- Analystic philosophy (In particular, Scientific ontology and Philosophy of mind.)
+- Pure math (In particular, Foundation of Mathematics.)
+- Machine Learning (In particular, Natural Language Processing. And for Cyphanese Project.)
+- Linguistics (In particular, Formal Semantics.)
+- Pharmacy (In particular, Neuropharmacology about Central nervous system.)
+
+
+Attribute | Value
+----------|-------
+Generic name | ゐてるま (Japanese Pronounciation: いてるま, English: Viterum, /vɪtɛɹʌm/), etc.
+Alternative name | あの, ぬてむま, ano
+Registered name | 秋葉 沙都季(Satsuki Akiba)
+DOB | 2003-01-24
+Native speaker of | Japanese language, Sapporo, Hokkaido dialect
+Other languages | English, Chinese
+Learned languages | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese, etc.
+Favourite programming languages | Haskell, OCaml, R, Purescript, Common Lisp, Hylang
+Caveats | ADHD(DX), GAD(DX), Possible psychosis
+
+## Timeline
+
+- [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
+- [x] Cyphanese Team leader
+- [x] Virtual World Alubis member (History of thoughts and science)
+- [x] **2019**: In JOL(Japanese Olympiad in Lunguistics), won a prize
+
+## Twitter accounts
+ ID | Screen name | Proper name 
+----|-------------|-------------
+[1163505248649928704](https://twitter.com/viterum_24) | viterum_24 | 表垢
+[1226033549901328385](https://twitter.com/unstableviterum) | unstableviterum | 界隈鍵垢
+[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先| 業務用アカウント——真空の，机の上．
+*** | *** | 真の鍵
+*** | *** | 薬理垢
+
+## Related DNS domains
+Domain name | Status(es) | Description
+------------|------------|-------------
+levome-dol.com | At home | Using for private
+menhera.org | Route 53 / AWS | Menhera.org organizational main domain
+
+## Contacts
+Email | E2EE-pubkey
+------|-------------
+<anosatsuk124@gmail.com> | https://raw.githubusercontent.com/anosatsuk124/Openpgp-pubkey/main/pubkey.asc
