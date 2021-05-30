@@ -51,7 +51,7 @@ Attribute | Value
 ----|-------------|-------------
 [1163505248649928704](https://twitter.com/viterum_24) | viterum_24 | 表垢
 [1226033549901328385](https://twitter.com/unstableviterum) | unstableviterum | 界隈鍵垢
-[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先| 業務用アカウント——真空の，机の上．
+[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先|
 *** | *** | 真の鍵
 *** | *** | 薬理垢
 
@@ -64,7 +64,7 @@ menhera.org | Route 53 / AWS | Menhera.org organizational main domain
 
 ## 連絡先
 
-Email | E2EE-pubkey
+Email | E2E暗号公開鍵
 ------|-------------
 <anosatsuk124@gmail.com> | https://raw.githubusercontent.com/anosatsuk124/Openpgp-pubkey/main/pubkey.asc
 
@@ -108,7 +108,7 @@ Caveats | ADHD(DX), GAD(DX), Possible psychosis
 ----|-------------|-------------
 [1163505248649928704](https://twitter.com/viterum_24) | viterum_24 | 表垢
 [1226033549901328385](https://twitter.com/unstableviterum) | unstableviterum | 界隈鍵垢
-[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先| 業務用アカウント——真空の，机の上．
+[1288707576981463040](https://twitter.com/unstablenutemum) | unstablenutemum | 界隈鍵垢避難先|
 *** | *** | 真の鍵
 *** | *** | 薬理垢
 
