@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![Language: ja](https://img.shields.io/badge/lang-ja-pink)
 ![Language: en](https://img.shields.io/badge/lang-en-purple)
 ![Language: zh](https://img.shields.io/badge/lang-zh-purple)
