@@ -19,6 +19,12 @@ permalink: /about/
 
 宗教と哲学的思想と科学的仮説は両立可能であるとする立場です。宗教観は自由主義プロテスタントで、アルミニウス主義、万人救済主義、内村鑑三の無教会主義とマルキオン主義に影響を受けています。哲学的思想は独我論的立場を取っています。 
 
+### 所属
+
+- [Menhera.org](https://www.menhera.org)
+- [VWAlubis](https://pianists.github.io/PsMemoBlog/conworld/)
+- [Cyphanese Project Team](https://github.com/anosatsuk124/Cyphanese)
+
 ### 興味のある学問
 
 - 分析哲学 (特に、科学的存在論と心の哲学)
@@ -75,6 +81,12 @@ Email | E2E暗号公開鍵
 ### Religious and Philosophical views
 
 I'm in a position that Religious views ,Philosophical thought, and Scientific hypotheses and theories are compatible. My religious view is Liberal Protestant influenced by Marcionism, Non-church Movement of Kanzo Uchimura, Universal Reconciliation and Arminianism. My philosophical thought is Monologism. 
+
+### Member of
+
+- [Menhera.org](https://www.menhera.org)
+- [VWAlubis](https://pianists.github.io/PsMemoBlog/conworld/)
+- [Cyphanese Project Team](https://github.com/anosatsuk124/Cyphanese)
 
 ### Interested Studies
 
