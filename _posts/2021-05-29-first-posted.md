@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "初投稿！"
-date:   2021-05-29
+title: "初投稿！"
+date: 2021-05-29
 categories: 日記
 ---
 
@@ -12,3 +12,11 @@ categories: 日記
 毎日のできごとや進捗、あるいは思考内容を記述することにより、継続的で持続的な生活リズムを維持すること。
 
 [自己紹介](/about)
+
+<script src="https://utteranc.es/client.js"
+        repo="anosatsuk124/anosatsuk124.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
