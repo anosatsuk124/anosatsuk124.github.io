@@ -44,7 +44,6 @@ Attribute | Value
 その他の言語 | 英語、中国語
 既習言語 | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, 漢文, etc.
 好きなプログラミング言語 | Haskell, OCaml, R, Purescript, Common Lisp, Hylang
-注意 | 注意欠陥多動性障害(診断済み)、 全般性不安障害(診断済み)、 精神病(Psychosis)疑い
 
 ## タイムライン
 
@@ -107,7 +106,6 @@ Native speaker of | Japanese language, Sapporo, Hokkaido dialect
 Other languages | English, Chinese
 Learned languages | Korean, Lojban, Toki Pona, Tok Pisin, Turkish, Armenian, Latvian, Latin, Spanish, Old Chinese, etc.
 Favourite programming languages | Haskell, OCaml, R, Purescript, Common Lisp, Hylang
-Caveats | ADHD(DX), GAD(DX), Possible psychosis
 
 ## Timeline
 
