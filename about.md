@@ -27,7 +27,7 @@ permalink: /about/
 
 ### 興味のある学問
 
-- 分析哲学 (特に、科学的存在論と心の哲学)
+- 分析哲学 (特に、科学哲学の存在論と心の哲学)
 - 純粋数学 (特に、数学基礎論)
 - 機械学習 (特に、自然言語処理)
 - 言語学 (特に、形式意味論)
@@ -89,7 +89,7 @@ I'm in a position that Religious views ,Philosophical thought, and Scientific hy
 
 ### Interested Studies
 
-- Analystic philosophy (In particular, Scientific ontology and Philosophy of mind.)
+- Analystic philosophy (In particular, Ontology on Philosophy of science and Philosophy of mind.)
 - Pure math (In particular, Foundation of Mathematics.)
 - Machine Learning (In particular, Natural Language Processing. And for Cyphanese Project.)
 - Linguistics (In particular, Formal Semantics.)
